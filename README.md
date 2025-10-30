@@ -23,8 +23,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program:
-### Developed By   : Bharath Raj P
-### Register Number: 212223230031
+### Developed By   : SANJAY M
+### Register Number: 212223230187
 </br>
 
 ### 1. Smoothing Filters
@@ -93,26 +93,26 @@ plt.subplot(133); plt.imshow(laplacian_operator,cmap='gray'); plt.title('Output 
 </br>
 
 i) Using Averaging Filter
-![alt text](output/average.png)
+![alt text](image.png)
 
 ii)Using Weighted Averaging Filter
 
-![alt text](output/weighted.png)
+![alt text](image-1.png)
 
 iii)Using Gaussian Filter
-![alt text](output/guassian.png)
+![alt text](image-2.png)
 
 iv) Using Median Filter
-![alt text](output/median.png)
+![alt text](image-3.png)
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-![alt text](output/laplace.png)
+![alt text](image-4.png)
 
 ii) Using Laplacian Operator
-![alt text](output/full_out.png)
+![alt text](image-5.png)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
